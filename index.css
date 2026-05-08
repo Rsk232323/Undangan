@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 4px;
+}
+.box h1 {
+    color: white;
+    font-family: monospace;
+    font-size: 50px;
+}
+/* FOTO */
+.foto {
+    display: contents;
+    justify-content: center;
+    margin: 0;
+    width: 100px;
+    height: 300px;
+}
+.foto img {
+    width: 100%;
+}
+.foto h2 {
+    font-family: monospace;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+/* FOTO */
+/* Undangan */
+.undangan {
+    display: contents;
+    justify-content: center;
+    align-items: center;
+}
+.undangan h3 {
+    color: white;
+    font-family: monospace;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+.undangan ul {
+    color: white;
+    padding: 10px 50px;
+}
+.undangan li {
+    color: white;
+    font-family: monospace;
+    font-size: 20px;
+    padding: 4px;
+}
+/* Undangan */
